@@ -1,0 +1,6 @@
+i
+hi hello
+[200~$ git commit -m "second commit"
+[master d3deb78] second commit
+ 1 file changed, 3 insertions(+)
+
